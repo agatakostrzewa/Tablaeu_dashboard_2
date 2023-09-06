@@ -8,8 +8,8 @@ const url = "https://public.tableau.com/views/HRAnalyticsDashboard_1694008903068
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 1000,
-    width: 1200,
+    height: 1200,
+    width: 1800,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
         activeSheet = workbook.getActiveSheet();
