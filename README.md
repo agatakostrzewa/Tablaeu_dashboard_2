@@ -2,4 +2,4 @@
 HR analytics dashboard 
 
 My second dashboard. I made some severe improvements thanks to the Data Tutorials-youtube channel.
-   link: 
+   link: https://agatakostrzewa.github.io/Tableau_dashboard_2/
